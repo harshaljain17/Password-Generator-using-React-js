@@ -2,7 +2,7 @@
 A sleek, modern password generator built with React and Tailwind CSS. This tool allows users to generate secure, customizable passwords with a single click, featuring a high-end glassmorphism UI inspired by modern design trends.
 
 🖼️ Project Preview
-Place your screenshot here! (Tip: Rename your image to screenshot.png and put it in your root folder).
+![Project Screenshot](screenshot.png)
 
 🧠 Learning Journey: Growth Through Building
 Building this project was about more than just generating random strings; it was a deep dive into the React ecosystem and modern CSS techniques.
@@ -31,3 +31,4 @@ To ensure the app remains fast even as settings change, the generation logic is 
 
 Clipboard Integration
 I implemented the Clipboard API with a fallback selection range to ensure the "Copy" functionality works seamlessly across both desktop and mobile browsers.
+
